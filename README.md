@@ -38,6 +38,23 @@ Data is pivotal for the proper delivery of services. The CloseBuy App uses a few
 - [x] Identity Toolkit API – Implementations of Auth functions
 - [x] MoiBit API - For writing files to the Matic BlockChain
 
+# App Architecture :
+**BLoC (Business Logic Components)** . The gist of BLoC is that everything in the app should be represented as stream of events: widgets submit events; other widgets will respond. BLoC sits in the middle, managing the conversation. Dart even comes with syntax for working with streams that is baked into the language!
+
+# Future Roadmap
+Apart from the great experience and the edges to which this great hackathion has pushed our coding skills , we as a team are commited to take CloseBuy to the next level and convert it to a practical real world application. We as a team are committed to implement and integrate the following in future :
+
+1. **Beta Testing of the App** : Any  product is incomplete without the feedback of consumers and subsequent reiterations. We at CloseBuy are also committed to make this journey as smooth as possible 
+2. We also aim to integrate the **Custom BlockChain API** which we have designed in house with our App 
+3. Last but not the least we also aim at **providing detailed analytics** based on consumer data to licensed advertisers via a dashboard or API so as to facilitate targeting of customers more accurately
+
+# Business Model
+Any Company or service provider requires a positive cash inflow in order to make sure that it can provide quality services to all its customers . We at CloseBuy are commited to do the same and have brainstormed a number of possible revenue streams which are listed as follow :
+1. Data sharing with e-commerce and analytics companies.
+2. Partnering with delivery and logistics companies for last mile deliveries through the women entrepreneurs.
+3. Charging service fee from manufacturers/suppliers when they make a bulk sale through the platform
+
+
 # Team Members :
 1. Jigyanshu Rout - jigyanshu15@gmail.com
 2. Anubhab Swain - 2005788@kiit.ac.in
